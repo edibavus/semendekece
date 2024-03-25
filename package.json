@@ -1,5 +1,5 @@
 {
-  "name": "semendekece",
+  "name": "sleepwell",
   "version": "0.1.0",
   "scripts": {
     "dev": "next dev",
@@ -14,5 +14,20 @@
     "react": "^18",
     "react-dom": "^18",
     "xlsx": "^0.18.5"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edibavus/sleepwell.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "edibavus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edibavus/sleepwell/issues"
+  },
+  "homepage": "https://github.com/edibavus/sleepwell#readme"
 }
